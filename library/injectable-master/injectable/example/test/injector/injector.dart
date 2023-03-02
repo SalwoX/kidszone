@@ -1,0 +1,2 @@
+// @InjectableInit(generateForDir: ['test'])
+configureTestDependencies() {}

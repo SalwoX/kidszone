@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

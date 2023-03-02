@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69" height="78" viewBox="0 0 69 78">
+  <g id="Dosya_ekle" data-name="Dosya ekle" transform="translate(-27 -654)">
+    <g id="folder_1_" data-name="folder (1)" transform="translate(27 600.666)">
+      <path id="Path_132" data-name="Path 132" d="M76.6,53.334H28.451a7.064,7.064,0,0,0-7.013,8,1.416,1.416,0,0,0,2.122,1.039,4.011,4.011,0,0,1,2.059-.544H35.7a4.271,4.271,0,0,1,4.028,2.883l.241.776a7.115,7.115,0,0,0,6.721,4.838H79.435a4.248,4.248,0,0,1,2.116.567,1.419,1.419,0,0,0,2.133-1.224V60.415A7.081,7.081,0,0,0,76.6,53.334Z" transform="translate(-18.537 0)" fill="#ffa000"/>
+      <path id="Path_133" data-name="Path 133" d="M64.447,105.454A7.039,7.039,0,0,0,60.9,104.5H28.154a4.271,4.271,0,0,1-4.028-2.883l-.241-.776A7.115,7.115,0,0,0,17.165,96H7.081a6.777,6.777,0,0,0-3.467.915A7.064,7.064,0,0,0,0,103.08v33.989a7.081,7.081,0,0,0,7.081,7.081H60.9a7.081,7.081,0,0,0,7.081-7.081V111.577A7.033,7.033,0,0,0,64.447,105.454Z" transform="translate(0 -37)" fill="#ffc107"/>
+    </g>
+    <text id="Dosya_Ekle-2" data-name="Dosya Ekle" transform="translate(27 727)" fill="#ffc107" font-size="13" font-family="Nunito-SemiBold, Nunito" font-weight="600" letter-spacing="0.03em"><tspan x="0" y="0">Dosya Ekle</tspan></text>
+  </g>
+</svg>

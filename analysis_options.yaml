@@ -1,0 +1,20 @@
+# include: package:very_good_analysis/analysis_options.yaml
+
+
+# analyzer:
+#   language:
+#   exclude:
+#     - '**.freezed.dart'
+#     - '**.g.dart'
+#     - '**/generated_plugin_registrant.dart'
+#     - '**.mocks.dart'
+#     - 'lib/generated'
+#     - '**/*.g.dart'
+#     - '**/*.freezed.dart'
+#     - 'test/.test_coverange.dart'
+#     - 'bin/cache/**'
+#     - 'lib/generated_plugin_registrant.dart'
+
+# linter:
+#   rules:
+#     use_key_in_widget_constructors: false
